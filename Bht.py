@@ -28,7 +28,7 @@ def po(z):
 
         time.sleep(0.003)        
 
-def main():
+def Fuck():
 
     time.sleep(1)
 
@@ -91,7 +91,7 @@ logo = """
         time.sleep(3)
         main()
 
-main()
+Fuck()
 
 
 
